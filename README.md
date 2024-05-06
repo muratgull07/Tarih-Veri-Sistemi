@@ -1,3 +1,6 @@
+Önemli tarihi olayları ve bireyleri kayıt edebileceğimiz program.
+
+
 ![Tarihçi - Tarihi Olaylar Veritabanı 6 05 2024 16_08_32](https://github.com/muratgull07/Tarih-Veri-Sistemi/assets/148050387/af32de3c-675d-4ae8-93bc-a2e6a041316f)
 Arayüz.
 
