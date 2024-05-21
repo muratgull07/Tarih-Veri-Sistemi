@@ -1,5 +1,4 @@
-Bu proje, Python kullanılarak geliştirilmiş bir restoran sipariş ve yönetim sistemidir. Kullanıcılar, menüdeki ürünleri seçip sipariş verebilir, müşteri bilgilerini girebilir ve sipariş detaylarını görebilir. Arayüz, kullanıcı dostu ve basit bir şekilde tasarlanmıştır, bu sayede restoran çalışanlarının sipariş sürecini hızlı ve verimli bir şekilde yönetmesine olanak tanır. Siparişlerin takip edilmesi ve yönetilmesi, sistemin ana işlevlerinden biridir.
-
+Bu proje, önemli tarihi olaylar ve bireylerin bilgilerini kaydetmek için geliştirilmiş bir veri tabanı sistemidir. Python kullanılarak oluşturulan bu sistemde, kullanıcılar tarihi olayları ve kişileri ekleyebilir, bu bilgileri güncelleyebilir ve arayüz üzerinden görüntüleyebilirler. Sistem, tarih meraklıları ve araştırmacılar için kullanışlı bir araç olarak tasarlanmıştır, böylece önemli tarihsel verileri merkezi bir yerden yönetebilirler.
 ![Tarihçi - Tarihi Olaylar Veritabanı 6 05 2024 16_08_32](https://github.com/muratgull07/Tarih-Veri-Sistemi/assets/148050387/af32de3c-675d-4ae8-93bc-a2e6a041316f)
 Arayüz.
 
